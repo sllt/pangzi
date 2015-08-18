@@ -1,6 +1,6 @@
 ## the Pangzi Programming Language
 
-like [Brannfuck](https://en.wikipedia.org/wiki/Brainfuck) .
+like [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) .
 
 ## Commands
 The eight language commands:
